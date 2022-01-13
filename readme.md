@@ -28,7 +28,7 @@ pip install optuna torchdiffeq torchcde
 ### Run the code
 
 ```shell
-cd code-and-data
+cd CGMF
 
 # unzip the dataset
 gzip -dk solar_AL.txt.gz
@@ -43,7 +43,7 @@ python main.py
 ## Folder Structure
 
 ```latex
-└── code-and-data
+└── CGMF
     ├── data # Four publicly available datasets
     ├── model # Source code of CGMF
     ├── config.py # Basic parameter settings
