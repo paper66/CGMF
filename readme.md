@@ -44,13 +44,13 @@ python main.py
 
 ```latex
 └── code-and-data
-    ├── data # four publicly available datasets
-    ├── model # source code of CGMF
-    ├── config.py # basic parameter settings
-    ├── data.py # data loading and pre-processing module
-    ├── evaluate.py # model evaluation module
+    ├── data # Four publicly available datasets
+    ├── model # Source code of CGMF
+    ├── config.py # Basic parameter settings
+    ├── data.py # Data loading and pre-processing modules
+    ├── evaluate.py # Model evaluation module
     ├── main.py # Run model for training, validation, and test
-    ├── train.py # model training module
+    ├── train.py # Model training module
     ├── utils.py # Defination of auxiliary functions for model running
     └── README.md # This document
 ```
